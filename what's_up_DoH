@@ -6,7 +6,8 @@ command
 ctrl+f
 packet bytes,  
 string
-in search bar: idk567.my.canva.site
+in search bar: idk 567
+and got name :idk567.my.canva.site
 and when searched for the site idk567.my.canva.site
 and found answer in the tab column
 flag: wired{sponge_squarepants}
